@@ -31,7 +31,7 @@
 
 
 
-class Homework2part2 {
+class Homework2 {
   static void Main() {
      
     Console.WriteLine("Please input the first num:");
