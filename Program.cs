@@ -32,34 +32,34 @@ class Homework2 {
 
 class Homework2part2 {
   static void Main() {
-      //get three inputs from the user
+     
     Console.WriteLine("Please input the first num:");
     int a=Convert.ToInt16(Console.ReadLine()); 
     Console.WriteLine("Please input the second num:");
     int b=Convert.ToInt16(Console.ReadLine());
     Console.WriteLine("Please input the third num:");
     int c=Convert.ToInt16(Console.ReadLine());
-    //declare a variable smallest
+    //This declares a variable smallest
     int smallest=0;
-    //check if a is the smallest
+    //this will check if a is the smallest value
     if(a<b) {
         if(a<c) {
             smallest=a;
         }
     }
-    //check if b is the smallest
+    //this will check if b is the smallest value
     if(b<a) {
         if(b<c) {
             smallest=b;
         }
     }
-    //check if c is the smallest
+    //this will check if c is the smallest value
     if(c<a) {
         if(c<b) {
             smallest=c;
         }
     }
-    //print the smallest
+    //This will print the smallest value
     Console.WriteLine("The smallest value is: {0}",smallest);
   }
 }
