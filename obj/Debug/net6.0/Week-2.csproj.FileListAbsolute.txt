@@ -1,0 +1,15 @@
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\bin\Debug\net6.0\Week-2.exe
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\bin\Debug\net6.0\Week-2.deps.json
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\bin\Debug\net6.0\Week-2.runtimeconfig.json
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\bin\Debug\net6.0\Week-2.dll
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\bin\Debug\net6.0\Week-2.pdb
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\obj\Debug\net6.0\Week-2.csproj.AssemblyReference.cache
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\obj\Debug\net6.0\Week-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\obj\Debug\net6.0\Week-2.AssemblyInfoInputs.cache
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\obj\Debug\net6.0\Week-2.AssemblyInfo.cs
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\obj\Debug\net6.0\Week-2.csproj.CoreCompileInputs.cache
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\obj\Debug\net6.0\Week-2.dll
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\obj\Debug\net6.0\refint\Week-2.dll
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\obj\Debug\net6.0\Week-2.pdb
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\obj\Debug\net6.0\Week-2.genruntimeconfig.cache
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Week 2\HW2\Week-2\obj\Debug\net6.0\ref\Week-2.dll
